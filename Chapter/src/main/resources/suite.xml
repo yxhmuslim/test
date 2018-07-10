@@ -7,7 +7,7 @@
             <class name="com.course.testng.suite.SuiteConfig"/>
         </classes>
     </test>
-    <test name="pay">
+    <test name="pay"重复>
         <classes>
             <class name="com.course.testng.suite.SuiteConfig"/>
             <class name="com.course.testng.suite.PayTest"/>
